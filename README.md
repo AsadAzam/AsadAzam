@@ -20,6 +20,9 @@ My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep
 <a href="https://github.com/AsadAzam/morsecode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=morsecode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/AsadAzam/FileRecovery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=FileRecovery&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 <!-- icons with padding -->

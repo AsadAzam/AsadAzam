@@ -1,3 +1,7 @@
+<a href="https://qdev.live/">
+  <img src="https://raw.githubusercontent.com/AsadAzam/AsadAzam/master/banner.png" width="100%" />
+</a>
+
 # Hello, folks! <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 
 My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep learning and web development too. I'm from India, living in Pune and currently unemployed 😞. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
@@ -12,16 +16,16 @@ My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/AsadAzam/AsadAzam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAzam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAzam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" />
 </a>
 <a href="https://github.com/AsadAzam/AsadAzam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsadAzam&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asad's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsadAzam&show_icons=true&line_height=50&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asad's GitHub Stats" width="50%" />
 </a>
 <a href="https://github.com/AsadAzam/morsecode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=morsecode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=morsecode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" />
 </a>
 <a href="https://github.com/AsadAzam/FileRecovery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=FileRecovery&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=FileRecovery&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="50%" />
 </a>
 
 

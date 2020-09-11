@@ -19,7 +19,7 @@ My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAzam&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="48%" />
 </a>
 <a href="https://github.com/AsadAzam/AsadAzam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsadAzam&show_icons=true&line_height=60&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asad's GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsadAzam&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asad's GitHub Stats" width="48%" height="400px" />
 </a>
 <a href="https://github.com/AsadAzam/morsecode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=morsecode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="48%" />

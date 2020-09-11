@@ -28,7 +28,6 @@ My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsadAzam&repo=FileRecovery&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="48%" />
 </a>
 
-
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/tXSoThF.png
 [2.1]: http://i.imgur.com/0o48UoR.png

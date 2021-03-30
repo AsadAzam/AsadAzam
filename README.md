@@ -1,6 +1,7 @@
-<a href="https://qdev.live/">
+<!--<a href="https://qdev.live/">
   <img src="https://raw.githubusercontent.com/AsadAzam/AsadAzam/master/banner.png" width="100%" />
 </a>
+--!>
 
 # Hello, folks! <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 

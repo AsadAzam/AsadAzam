@@ -7,9 +7,8 @@
 
 My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep learning and web development too. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
--->
-
 ## 🔧 Technologies & Tools
+-->
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat-square&logo=Xcode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)

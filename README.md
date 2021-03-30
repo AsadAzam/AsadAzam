@@ -1,9 +1,11 @@
 <!-- <a href="https://qdev.live/">
   <img src="https://raw.githubusercontent.com/AsadAzam/AsadAzam/master/banner.png" width="100%" />
 </a>
--->
+
 
 # Hello, folks! <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
+
+-->
 
 My name is Asad Azam and I'm an ![Apple][2.2] developer who has insights of deep learning and web development too. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
